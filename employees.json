@@ -1,0 +1,21 @@
+[
+{
+    "firstName" : "Yunus",
+    "lastName" : "Yilmaz",
+    "age" : 22,
+    "retired" : false
+},
+{
+    "firstName" : "Cagatay",
+    "lastName" : "Yilmaz",
+    "age" : 27,
+    "retired" : true
+},
+{
+    "firstName" : "Yagmur",
+    "lastName" : "Yilmaz",
+    "age" : 21,
+    "retired" : false
+}
+
+]
